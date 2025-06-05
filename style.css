@@ -1,0 +1,24 @@
+html{
+    background: darkslategrey;
+}
+
+.HAHA{
+    color: bisque;
+}
+
+#work{
+    color: crimson;
+}
+
+h2[draggable]{
+    color: lavender;
+ }
+
+.HAHA{
+    font-weight: normal;
+}
+
+#red{
+    color: aliceblue;
+    font-size: xx-large;
+}
